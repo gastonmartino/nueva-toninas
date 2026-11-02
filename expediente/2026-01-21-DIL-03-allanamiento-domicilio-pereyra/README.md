@@ -1,4 +1,4 @@
-# NUEVA TONINAS
+# Expte. 11/26 s/ Tendidos sobrentendidos
 ## Diligencia #3 — Allanamiento y hallazgo de documentación
 
 **Fecha propuesta:** miércoles 21 de enero de 2026  
@@ -426,13 +426,13 @@ Una posibilidad sugerente —que debe permanecer como sospecha y no como dato co
 
 La secuencia posterior puede desarrollarse sin adelantar la identidad de la organización:
 
-### Diligencia #4 — Reconstrucción de los registros
+### Diligencia #4 — Identificación de personas y vínculos
 
-La Fiscalía intenta establecer qué representan los mapas, cómo se relacionan los cuadernos y quién pudo producir las distintas anotaciones. La investigación comienza a comparar fechas, recorridos y puntos del territorio.
+La Fiscalía cruza nombres, domicilios, recorridos, caligrafías y referencias territoriales para identificar a las personas vinculadas con el archivo. La investigación desplaza el foco desde los objetos secuestrados hacia la trama humana y territorial.
 
-### Diligencia #5 — Primeras conexiones personales
+### Diligencia #5 — Análisis documental y técnico del material secuestrado
 
-Aparecen otros habitantes de Las Toninas vinculados indirectamente con los registros. Sus actividades cotidianas parecen no tener relación entre sí, pero sus observaciones se complementan. Los vínculos deben surgir de testimonios y documentos, no de una lista de integrantes.
+El análisis documental y técnico clasifica los materiales, identifica códigos compartidos, distintas caligrafías y registros complementarios, y detecta diagramas que podrían describir circuitos de comunicación óptica. Las relaciones entre los documentos deben mantenerse como indicios y no como conclusiones definitivas.
 
 En etapas posteriores podrán emerger el nombre Los del Fondo, la conversación vecinal de 2011 y, mucho más adelante, la idea de Nueva Toninas. Ninguno de esos elementos debe explicarse todavía en el allanamiento.
 
