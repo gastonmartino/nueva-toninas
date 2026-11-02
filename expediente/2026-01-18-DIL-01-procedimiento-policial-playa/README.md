@@ -153,12 +153,12 @@ o de tablero de investigación.
 Antes de cerrar esta diligencia conviene consolidar una ficha textual única y
 corregir las diferencias entre las imágenes:
 
--   **Identificación del módulo:** el acta visual inicial menciona
-    "Telecom Sur S.A.", Inventario N.º "TS-44873" y número de serie "SN
-    7845321". La fotografía generada después muestra otra marca/modelo
-    ("Telemar TM-OSM-10G") y otro número de serie. El croquis también
-    menciona Telemar. Elegir una única identidad técnica y mantenerla en
-    todas las piezas.
+-   **Identificación del módulo:** *decidido.* La empresa es **Telemar**
+    (modelo "Telemar TM-OSM-10G", según la fotografía y el croquis). El
+    acta visual inicial conserva la mención anterior a "Telecom Sur S.A.",
+    Inventario N.º "TS-44873" y número de serie "SN 7845321"; la imagen no
+    se regenera y queda como está. En los textos y en las piezas nuevas se
+    usa siempre Telemar.
 -   **Etiqueta patrimonial:** definir si el rótulo corresponde a una
     empresa operadora, a un inventario interno o a otra identificación.
     No afirmar todavía que el elemento fue sustraído.
