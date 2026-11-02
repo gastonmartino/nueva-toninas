@@ -1,8 +1,8 @@
-# Nueva Toninas --- Hito 1: procedimiento policial
+# Nueva Toninas --- Diligencia 1: procedimiento policial
 
 ## Alcance
 
-Síntesis del trabajo realizado para el primer hito de la cronología de
+Síntesis del trabajo realizado para la primera diligencia de la cronología de
 descubrimiento: el procedimiento policial ocurrido en la playa de Las
 Toninas el **domingo 18 de enero de 2026**. Reúne el incidente, las
 piezas documentales y visuales producidas, y los puntos que requieren
@@ -150,7 +150,7 @@ o de tablero de investigación.
 
 ## 7. Inconsistencias y decisiones pendientes
 
-Antes de cerrar este hito conviene consolidar una ficha textual única y
+Antes de cerrar esta diligencia conviene consolidar una ficha textual única y
 corregir las diferencias entre las imágenes:
 
 -   **Identificación del módulo:** el acta visual inicial menciona
@@ -194,7 +194,7 @@ debe revelarse en esta primera etapa.
 
 ------------------------------------------------------------------------
 
-**Estado del hito:** primera versión del conjunto documental y visual
+**Estado de la diligencia:** primera versión del conjunto documental y visual
 producida. Pendiente de consolidación de datos técnicos, personales,
 institucionales y de numeración antes de considerar cerrado el
 procedimiento policial.

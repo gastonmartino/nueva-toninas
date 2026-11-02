@@ -1,5 +1,5 @@
 # NUEVA TONINAS
-## Hito #3 — Allanamiento y hallazgo de documentación
+## Diligencia #3 — Allanamiento y hallazgo de documentación
 
 **Fecha propuesta:** miércoles 21 de enero de 2026  
 **Lugar:** domicilio de Héctor Daniel Pereyra, Las Toninas, Partido de La Costa, Provincia de Buenos Aires  
@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Función del hito en la investigación
+## 1. Función de la diligencia en la investigación
 
-El allanamiento constituye el tercer hito de la investigación. Su función no es revelar de golpe la existencia de una organización secreta ni explicar el proyecto de Nueva Toninas. Debe ampliar el campo de lo investigado.
+El allanamiento constituye la tercera diligencia de la investigación. Su función no es revelar de golpe la existencia de una organización secreta ni explicar el proyecto de Nueva Toninas. Debe ampliar el campo de lo investigado.
 
 Hasta este momento, la causa se concentra en un episodio aparentemente menor: una pelea entre dos vendedores ambulantes en la playa y el hallazgo de un componente electrónico en el puesto de uno de ellos. El examen técnico preliminar permite identificar el objeto como un componente vinculado a infraestructura de telecomunicaciones. La consulta a la empresa que figura en su identificación patrimonial reconoce el número de serie, pero no logra aclarar satisfactoriamente su circulación ni por qué terminó en poder de Pereyra.
 
@@ -174,7 +174,7 @@ La investigación no debe saltar directamente del primer nivel al tercero como s
 
 ## 6. ¿Se descubre la organización?
 
-**No en este hito.**
+**No en esta diligencia.**
 
 El allanamiento no debe revelar todavía el nombre **Los del Fondo**, ni identificar a los fundadores o a los posibles integrantes. Tampoco debe aparecer un manifiesto, un estatuto, una lista de miembros o un documento que explique el proyecto de Nueva Toninas.
 
@@ -192,9 +192,9 @@ Tampoco se debe identificar aún a los dos buzos, al exdirector de escuela, a la
 
 ---
 
-## 7. Documentos que componen el Hito #3
+## 7. Documentos que componen la Diligencia #3
 
-El hito puede desplegarse mediante un conjunto de piezas documentales. No todas tienen que aparecer necesariamente juntas ni en el orden de producción: el orden de lectura debe seguir el descubrimiento dentro de la investigación.
+La diligencia puede desplegarse mediante un conjunto de piezas documentales. No todas tienen que aparecer necesariamente juntas ni en el orden de producción: el orden de lectura debe seguir el descubrimiento dentro de la investigación.
 
 ### 7.1. Solicitud fiscal de allanamiento
 
@@ -228,7 +228,7 @@ La resolución no debe anticipar qué se encontrará durante el procedimiento.
 
 ### 7.3. Acta de allanamiento y registro domiciliario
 
-Documento central del hito. Registra el inicio formal de la diligencia, la notificación de la orden judicial, la intervención de los testigos convocados y las circunstancias del ingreso a la vivienda de Héctor Daniel Pereyra.
+Documento central de la diligencia. Registra el inicio formal del procedimiento, la notificación de la orden judicial, la intervención de los testigos convocados y las circunstancias del ingreso a la vivienda de Héctor Daniel Pereyra.
 
 Se desarrolló la maqueta visual del **Folio 08 (Página 1)** bajo la estética de escaneo plano institucional de la Policía de la Provincia de Buenos Aires, con tipografía monospaciada de máquina de escribir mecánica sobre papel neutro y completados manuscritos en birome azul:
 
@@ -358,9 +358,9 @@ El expediente no es un envoltorio narrativo de una historia ya escrita. Es el me
 
 ---
 
-## 9. Lo que el hito debe dejar abierto
+## 9. Lo que la diligencia debe dejar abierto
 
-Al terminar el Hito #3, deberían persistir preguntas concretas:
+Al terminar la Diligencia #3, deberían persistir preguntas concretas:
 
 - ¿Qué relación existe entre el módulo encontrado en el puesto de Pereyra y los componentes registrados en su vivienda?
 - ¿Cómo llegó ese módulo a sus manos?
@@ -375,15 +375,15 @@ Una posibilidad sugerente —que debe permanecer como sospecha y no como dato co
 
 ---
 
-## 10. Continuidad: posibles hitos siguientes
+## 10. Continuidad: posibles diligencias siguientes
 
 La secuencia posterior puede desarrollarse sin adelantar la identidad de la organización:
 
-### Hito #4 — Reconstrucción de los registros
+### Diligencia #4 — Reconstrucción de los registros
 
 La Fiscalía intenta establecer qué representan los mapas, cómo se relacionan los cuadernos y quién pudo producir las distintas anotaciones. La investigación comienza a comparar fechas, recorridos y puntos del territorio.
 
-### Hito #5 — Primeras conexiones personales
+### Diligencia #5 — Primeras conexiones personales
 
 Aparecen otros habitantes de Las Toninas vinculados indirectamente con los registros. Sus actividades cotidianas parecen no tener relación entre sí, pero sus observaciones se complementan. Los vínculos deben surgir de testimonios y documentos, no de una lista de integrantes.
 
@@ -398,7 +398,7 @@ En etapas posteriores podrán emerger el nombre Los del Fondo, la conversación 
 - Utilizar las denominaciones institucionales ya establecidas: Fiscalía Descentralizada N.º 2 de Mar del Tuyú, Juzgado de Garantías N.º 4 del Departamento Judicial de Dolores y Destacamento Costero de Las Toninas.
 - Mantener a Héctor Daniel Pereyra como persona investigada en relación con el hallazgo del módulo, sin atribuirle todavía pertenencia a Los del Fondo.
 - No introducir nombres nuevos, domicilios, números de documento, funcionarios, peritos ni identificadores de evidencia sin consolidarlos primero.
-- La identidad técnica del módulo del Hito #1 todavía debe unificarse entre el acta, la fotografía y el croquis. No trasladar a este hito una marca, modelo o número de serie hasta resolver esa inconsistencia.
+- La identidad técnica del módulo de la Diligencia #1 todavía debe unificarse entre el acta, la fotografía y el croquis. No trasladar a esta diligencia una marca, modelo o número de serie hasta resolver esa inconsistencia.
 - Diferenciar siempre entre objeto secuestrado, elemento identificado técnicamente, elemento cuya procedencia se conoce y elemento cuya circulación sigue sin explicación.
 - Describir los objetos con neutralidad. No convertir una hipótesis policial en un hecho probado.
 - Mantener la materialidad burocrática del expediente: actas, inventarios, firmas, sellos, referencias cruzadas y registros fotográficos.
@@ -419,7 +419,7 @@ Las denominaciones institucionales, personas, números de causa y actuaciones de
 
 ---
 
-## Síntesis del hito
+## Síntesis de la diligencia
 
 El allanamiento del domicilio de Héctor Daniel Pereyra no resuelve el misterio del módulo ni descubre formalmente a Los del Fondo. Encuentra algo más ambiguo y, por eso, más fértil: un archivo material sobre la costa y su infraestructura, producido a lo largo del tiempo y posiblemente por varias personas.
 

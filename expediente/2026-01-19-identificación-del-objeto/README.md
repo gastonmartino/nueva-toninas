@@ -1,5 +1,5 @@
 # NUEVA TONINAS
-## Hito #2 — Identificación técnica del objeto
+## Diligencia #2 — Identificación técnica del objeto
 ### Peritaje / informe técnico preliminar
 
 **Fecha propuesta:** lunes 19 de enero de 2026  
@@ -19,7 +19,7 @@ Pero hay algo que todavía no se puede establecer: cómo llegó a manos de Héct
 
 La Fiscalía solicita entonces información a la empresa que figura en la etiqueta para que informe si el módulo forma parte de sus activos, dónde estaba instalado, cuál es su estado administrativo y si existe constancia de su baja, retiro o transferencia.
 
-## Documentos que podrían integrar este hito
+## Documentos que podrían integrar esta diligencia
 1. Informe técnico preliminar: descripción del módulo, fotografías de detalle, conectores, placa y numeración.
 2. Acta de apertura o inspección del elemento: registro de las condiciones en que se recibe y examina.
 3. Oficio de la Fiscalía a la empresa operadora: solicitud de identificación y antecedentes patrimoniales.
@@ -37,4 +37,4 @@ Eso abre una pregunta mucho más interesante que la del robo:
 
 Y nos permite mantener abierta la investigación. Todavía no sabemos si Pereyra lo obtuvo, lo encontró, lo recibió de alguien o si su presencia allí responde a algo completamente distinto.
 
-Yo cerraría el segundo hito en esa primera anomalía documental: la empresa reconoce el objeto, pero su procedencia inmediata sigue sin explicación.
+Yo cerraría la segunda diligencia en esa primera anomalía documental: la empresa reconoce el objeto, pero su procedencia inmediata sigue sin explicación.

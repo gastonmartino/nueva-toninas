@@ -27,19 +27,19 @@ La red vecinal está formada inicialmente por dos buzos vinculados a la instalac
 ## Estructura del repositorio
 
 - `concepto.md`: decisiones conceptuales, narrativas y visuales del proyecto.
-- `expediente/`: hitos documentales ordenados cronológicamente.
+- `expediente/`: diligencias documentales ordenadas cronológicamente.
 - `medios/`: imágenes y otros materiales visuales.
 - `primera-cronología-DEPRECADO.md`: versión anterior de la cronología, conservada como referencia.
 
 ## Estado actual
 
-El expediente reúne tres hitos iniciales:
+El expediente reúne tres diligencias iniciales:
 
 1. Procedimiento policial tras la pelea en la playa — 18 de enero de 2026.
 2. Identificación técnica del objeto secuestrado — 19 de enero de 2026.
 3. Allanamiento y hallazgo de documentación en el domicilio de Pereyra — 21 de enero de 2026.
 
-Los hitos siguientes deberán reconstruir el archivo, establecer conexiones entre distintos habitantes de Las Toninas y revelar gradualmente la historia de la organización.
+Las diligencias siguientes deberán reconstruir el archivo, establecer conexiones entre distintos habitantes de Las Toninas y revelar gradualmente la historia de la organización.
 
 ## Título de la obra
 
