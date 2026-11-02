@@ -6,7 +6,7 @@
 
 ## 1. Descripción general
 
-Monumento público de hormigón armado, de lenguaje abstracto y brutalista, concebido como conmemoración de la importancia de Las Toninas en las telecomunicaciones internacionales. La escultura, de escala desproporcionada respecto de su entorno, presenta dos grandes apoyos verticales conectados por un volumen superior curvo y vacíos de considerable tamaño. **Se conserva la forma y las proporciones de la escultura de referencia**; las funciones adicionales deben alojarse o interpretarse sin alterar su silueta.
+Monumento público de hormigón armado, de lenguaje abstracto y brutalista, concebido como conmemoración de la importancia de Las Toninas en las telecomunicaciones internacionales. La escultura, de escala desproporcionada respecto de su entorno, tiene un diseño propio, inspirado en *Elogio del Horizonte* de Eduardo Chillida: dos torres —una con una abertura cuadrada en lo alto, la otra rematada por un tambor cilíndrico— unidas por una viga horizontal, un gran arco curvo y bloques bajos que funcionan como bancos (23,40 × 12,40 m en planta; 17,60 m de altura). **Se conservan la forma y las proporciones definidas en los planos del proyecto (MCA-PE-01 y MCA-PE-02)**; las funciones adicionales deben alojarse o interpretarse sin alterar su silueta.
 
 **Estado narrativo propuesto:** proyecto aprobado en 2023 e inaugurado en 2025. Estas fechas son decisiones de ficción a consolidar en los documentos del expediente.
 
@@ -91,7 +91,7 @@ Se reconstruyen aprobación, financiamiento y participación del arquitecto y el
 
 **Material posible:** acta de inspección, registro fotográfico policial, croquis de relevamiento.
 
-**Continuidad:** una fotografía generada anteriormente lleva fecha **04/10/2026** y rótulo DIL-19. Si se conserva, debe tratarse como registro complementario posterior, no como fotografía de la inspección principal de agosto; alternativamente, corregir fecha y rótulo en una nueva pieza.
+**Registro:** la inspección incorpora la vista aérea y fotografías generales del monumento. En el registro de mantenimiento se halla la lámina 02/04 del proyecto (MCA-PE-02), intervenida con notas de uso interno: unidad de emisión/recepción óptica desmontable, conducto interno, cápsula de resguardo y coordenadas M-00.
 
 ### DIL-20 · Primera quincena de septiembre — Red de comunicaciones experimental
 
@@ -117,7 +117,7 @@ El monumento adquiere **tres temporalidades**:
 
 ## 5. Criterios para producir las piezas visuales
 
-- Mantener **exactamente la forma y las proporciones generales** del monumento fotográfico ya elegido: dos apoyos, volumen curvo superior y gran abertura asimétrica; no rediseñarlo para justificar las funciones ocultas.
+- Mantener **la forma y las proporciones** definidas en los planos del proyecto: torre con abertura cuadrada, torre con tambor cilíndrico, viga horizontal, arco curvo y bloques bajos; no rediseñarlo para justificar las funciones ocultas.
 - Fotografías: realismo documental periodístico o registro policial, sin dramatización cinematográfica.
 - Planos: apariencia arquitectónica y técnica verosímil, con cotas, escalas, vistas, cortes y capas de anotaciones de autoría interna.
 - Soportes: blanco a gris claro, pliegues y desgaste sutiles; **nunca sepia**.

@@ -181,7 +181,7 @@ El conjunto no presupone que Los del Fondo controlen toda la ciudad ni que hayan
 - **Diligencia 17 — Acta fundacional de Nueva Toninas (julio):** surge la hipótesis de que las intervenciones integran una misma ciudad proyectada.
 - **Diligencia 19 — Inspecciones de obras (agosto):** se constata qué componentes existen, cuáles funcionan y cuáles solo figuran en los planos.
 
-**Revelación sugerida:** reservar para la diligencia 19 la comprensión del monumento como punto cero. Hasta entonces, aparece como una escultura extravagante que se repite de manera inexplicable en fotografías, croquis y cartografías.
+**Revelación:** la comprensión del monumento como punto cero llega en la diligencia 17, con el anexo cartográfico del acta fundacional («M-00 / Punto Cero»); la diligencia 19 la constata materialmente. Hasta entonces, aparece como una escultura extravagante que se repite de manera inexplicable en fotografías, croquis y cartografías.
 
 ## Ambigüedades que conviene preservar
 
