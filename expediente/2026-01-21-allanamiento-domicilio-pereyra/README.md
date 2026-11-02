@@ -283,9 +283,56 @@ DESTACAMENTO COSTERO LAS TONINAS (Emblema delfín y estrella)
 - Héctor Daniel Pereyra (Morador / Notificado)
 ```
 
-### 7.4. Inventario de elementos secuestrados
+### 7.4. Inventario de elementos secuestrados (Folio 09 — Página 2)
 
-Listado individualizado de los objetos retirados del domicilio.
+Listado individualizado y descripción forense de los efectos retirados del domicilio de Héctor Daniel Pereyra, que da continuidad inmediata al Folio 08 bajo la misma tipografía mecánica y soporte material.
+
+- **Archivo gráfico generado:** `Acta de allanamiento - Folio 09.png`
+
+#### Transcripción textual oficial (Folio 09 — Página 2)
+
+```text
+Policía de la Provincia de Buenos Aires               Actuación N.º: 021/2026
+Superintendencia de Seguridad Región Atlántica                 Folio: 09
+Destacamento Costero Las Toninas
+-----------------------------------------------------------------------------
+
+         ACTA DE ALLANAMIENTO - PLANILLA DE INVENTARIO Y SECUESTRO
+
+...Viene del Folio 08. Acto seguido y en continuidad del procedimiento, se procede 
+a la individualización, rotulado y secuestro preventivo bajo cadena de custodia de 
+los siguientes efectos hallados en el inmueble:
+
+• E-01: Carpeta plástica azul con dieciséis (16) planos catastrales y cartas 
+  náuticas del litoral de Las Toninas, con cotas y anotaciones manuscritas en 
+  tinta roja y negra.
+• E-02: Tres (3) cuadernos tipo escolar de hojas rayadas con registros cronológicos 
+  de mareas, tablas numéricas y observaciones de playa (fechados entre marzo de 
+  2011 y noviembre de 2025).
+• E-03: Sobre de papel manila rotulado «ENLACE / ESQUEMAS», conteniendo fotocopias 
+  de diagramas técnicos de tendido de fibra óptica y esquemas de empalme por 
+  fusión.
+• E-04: Caja de cartón con correspondencia epistolar, boletas de cooperativas de 
+  TV comunitaria y recortes periodísticos locales sobre conectividad.
+• E-05: Maletín metálico con herramientas técnicas: cortadora de precisión, 
+  peladora de cable dieléctrico, conectores SC/APC estancos y muestras de 
+  filamentos de fibra óptica.
+
+No habiendo más elementos de interés para la presente causa, se da por finalizada 
+la diligencia siendo las 09:45 horas del mismo día, previa lectura y ratificación 
+de los intervinientes, firmando al pie de conformidad por ante el funcionario 
+actuante.
+
+[Sello húmedo circular azul]
+POLICÍA DE LA PROVINCIA DE BUENOS AIRES
+DESTACAMENTO COSTERO LAS TONINAS (Escudo institucional)
+
+[Firmas manuscritas al pie]
+- Oficial Principal (Funcionario actuante)
+- Carlos A. Méndez (Testigo)
+- Romina V. Duarte (Testigo)
+- Héctor Daniel Pereyra (Morador)
+```
 
 Conviene asignar identificadores consistentes a cada elemento o conjunto, por ejemplo:
 
