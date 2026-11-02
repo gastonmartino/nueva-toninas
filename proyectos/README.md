@@ -137,6 +137,8 @@ Establecer puntos de aprovisionamiento, salida y relevo de **repetidores humanos
 
 Estructura monumental y abstracta de hormigón armado, de unos 15 a 20 metros de altura, ubicada en una plaza o espacio abierto cercano a la costa. Geometría casi brutalista, con planos inclinados, grandes vacíos, curvas y elementos verticales cuya organización no resulta inmediatamente inteligible. Su escala es desproporcionada respecto del tejido urbano.
 
+El proyecto está inspirado en *Elogio del Horizonte*, de Eduardo Chillida, en Gijón: retoma su condición de escultura pública abstracta, su relación con el horizonte marítimo y la experiencia corporal de atravesar y habitar una estructura abierta.
+
 ### Propósito oficial
 
 Celebrar el encuentro entre continentes, las comunicaciones globales y la integración tecnológica. Financiación por donación de una fundación privada con aportes empresariales. Su inauguración suscita críticas por el costo, la escala y la aparente inutilidad de un monumento a la conectividad en una localidad con antecedentes de dificultades de acceso a Internet.
