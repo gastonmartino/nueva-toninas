@@ -45,10 +45,10 @@ El desgranamiento de los cuadernos `E-02` y las cartas `E-04` permite a los inst
 | :--- | :--- | :--- |
 | **Héctor Daniel Pereyra** | Vendedor ambulante de pareos y artículos textiles en playa. | Domicilio allanado. Morador. Conservador de los cuadernos de bitácora y custodio de los planos. |
 | **«Prof. Caletti» / R. C.** | Exdirector de escuela secundaria de Las Toninas; pionero de la televisión comunitaria por cable local. | Autor de notas mecanografiadas sobre «zonas de sombra», diagramas de cableoperadoras barriales y cartas a la CNC de 2001 a 2012. |
-| **«Buzo 1» / V. M.** | Buzo comercial / táctico de inmersión profunda. Participó como buzo de apoyo en barcos cableros (1999–2001). | Anotaciones de tablas de descompresión, batimetría del lecho marino frente a Las Toninas, puntos de amarre y referencias al lecho de arcilla dura. |
-| **«Buzo 2» / O. S.** | Buzo autónomo, dedicado al rescate de embarcaciones menores y pesca artesanal. | Registros horarios de mareas, entradas y salidas de gomones semirrígidos en horarios nocturnos sin luces de navegación. |
+| **«Buzo 1» / G. Á.** | Buzo comercial / táctico de inmersión profunda. Participó como buzo de apoyo en barcos cableros (1999–2001). | Anotaciones de tablas de descompresión, batimetría del lecho marino frente a Las Toninas, puntos de amarre y referencias al lecho de arcilla dura. |
+| **«Buzo 2» / D. S.** | Buzo autónomo, dedicado al rescate de embarcaciones menores y pesca artesanal. | Registros horarios de mareas, entradas y salidas de gomones semirrígidos en horarios nocturnos sin luces de navegación. |
 | **Marta E. Gómez** | Propietaria de hotel/hospedaje tradicional de Las Toninas (calle 1). | Facturas comerciales, registros de reuniones fuera de temporada en salones cerrados (meses de mayo a octubre). |
-| **Vecino técnico (Agrimensor/Jubilado)** | Exempleado municipal o de catastro provincial. | Minutas sobre servidumbres de paso, copias heliográficas de parcelas fiscales y trazas urbanas no consolidadas. |
+| **Vecino técnico / F. H.** (agrimensor jubilado) | Exempleado municipal o de catastro provincial. | Minutas sobre servidumbres de paso, copias heliográficas de parcelas fiscales y trazas urbanas no consolidadas. |
 
 ### La perplejidad del instructor policial
 El informe policial subraya la incongruencia:  
