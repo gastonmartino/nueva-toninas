@@ -130,7 +130,7 @@ Nueva Toninas surge inicialmente como una serie de planos, mapas superpuestos, i
 
 ### 5. El dispositivo de pulsos de luz
 
-El peritaje identifica un sistema de comunicación que utiliza fuentes luminosas improvisadas para transmitir información mediante pulsos de luz a través de tramos de fibra óptica submarina fuera de servicio. El expediente debe distinguir entre diseño, prototipo, pruebas y funcionamiento efectivo.
+El peritaje identifica un sistema de comunicación que utiliza fuentes luminosas improvisadas para transmitir información mediante pulsos de luz a través de tramos de fibra óptica submarina fuera de servicio. El dispositivo es pequeño y portátil: una valija chica y estanca que reúne emisión y lectura, funciona sin red eléctrica (batería recargada a manivela) y se conecta al extremo de un tramo de fibra recuperada, sin instalación fija. Es independiente del Monumento a la Conectividad Atlántica y de las demás obras. El expediente debe distinguir entre diseño, prototipo, pruebas y funcionamiento efectivo.
 
 ### 6. Los repetidores humanos y su academia
 
